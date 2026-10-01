@@ -1,0 +1,6 @@
+{
+  "name": "Bikini Valley Resort",
+  "description": "Tropical beach resort in Samara, Aringay, La Union, Philippines featuring luxury accommodations, amenities, promotional tour, and online booking inquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
